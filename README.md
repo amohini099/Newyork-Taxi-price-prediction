@@ -1,1 +1,3 @@
-# Newyork-Taxi-price-prediction
+# Newyork-Taxi-demand-prediction
+•	For a given location in New York City, our goal is to predict the number of pickups in that given location. Some location requires more taxis at a particular time than other locations owing to the presence of schools, hospitals, offices etc. The prediction result can be transferred to the taxi drivers via Smartphone app, and they can subsequently move to the locations where predicted pickups are high.
+•	In performing this task applied various ML classification techniques such as data cleaning, processing and preparation , clustering, calculated MAPE, modelling. Also, used linear regression, XGBoost regressor, Random Forest regressor, for comparing log loss values and selected the best one amongst all.
